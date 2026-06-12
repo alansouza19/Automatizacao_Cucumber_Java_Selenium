@@ -1,1 +1,2 @@
-# SauceDemo Automation\nProjeto exemplo com Cucumber + Java + Selenium.
+# SauceDemo Automation
+Projeto exemplo com Cucumber + Java + Selenium.
